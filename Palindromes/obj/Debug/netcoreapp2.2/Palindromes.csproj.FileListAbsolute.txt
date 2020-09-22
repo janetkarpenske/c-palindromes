@@ -1,0 +1,11 @@
+C:\Users\Janet\Desktop\epicodus-c#\palindromes\Palindromes\bin\Debug\netcoreapp2.2\Palindromes.deps.json
+C:\Users\Janet\Desktop\epicodus-c#\palindromes\Palindromes\bin\Debug\netcoreapp2.2\Palindromes.dll
+C:\Users\Janet\Desktop\epicodus-c#\palindromes\Palindromes\bin\Debug\netcoreapp2.2\Palindromes.pdb
+C:\Users\Janet\Desktop\epicodus-c#\palindromes\Palindromes\obj\Debug\netcoreapp2.2\Palindromes.csprojAssemblyReference.cache
+C:\Users\Janet\Desktop\epicodus-c#\palindromes\Palindromes\obj\Debug\netcoreapp2.2\Palindromes.csproj.CoreCompileInputs.cache
+C:\Users\Janet\Desktop\epicodus-c#\palindromes\Palindromes\obj\Debug\netcoreapp2.2\Palindromes.AssemblyInfoInputs.cache
+C:\Users\Janet\Desktop\epicodus-c#\palindromes\Palindromes\obj\Debug\netcoreapp2.2\Palindromes.AssemblyInfo.cs
+C:\Users\Janet\Desktop\epicodus-c#\palindromes\Palindromes\obj\Debug\netcoreapp2.2\Palindromes.dll
+C:\Users\Janet\Desktop\epicodus-c#\palindromes\Palindromes\obj\Debug\netcoreapp2.2\Palindromes.pdb
+C:\Users\Janet\Desktop\epicodus-c#\Palindromes\Palindromes\bin\Debug\netcoreapp2.2\Palindromes.runtimeconfig.json
+C:\Users\Janet\Desktop\epicodus-c#\Palindromes\Palindromes\bin\Debug\netcoreapp2.2\Palindromes.runtimeconfig.dev.json
