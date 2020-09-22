@@ -1,10 +1,10 @@
 using System;
 using System.Collections.Generic;
-using Word;
+using NoRevWord;
 
-namespace Program
+namespace NoRevWord
 {
-  public class Initialize
+  public class Program
   {
     public static void Main()
     {

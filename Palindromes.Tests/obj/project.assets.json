@@ -5846,11 +5846,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Janet\\Desktop\\epicodus-c#\\palindromes\\Palindromes.Tests\\Palindromes.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Janet\\Desktop\\epicodus-c#\\Palindromes\\Palindromes.Tests\\Palindromes.Tests.csproj",
       "projectName": "Palindromes.Tests",
-      "projectPath": "C:\\Users\\Janet\\Desktop\\epicodus-c#\\palindromes\\Palindromes.Tests\\Palindromes.Tests.csproj",
+      "projectPath": "C:\\Users\\Janet\\Desktop\\epicodus-c#\\Palindromes\\Palindromes.Tests\\Palindromes.Tests.csproj",
       "packagesPath": "C:\\Users\\Janet\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Janet\\Desktop\\epicodus-c#\\palindromes\\Palindromes.Tests\\obj\\",
+      "outputPath": "C:\\Users\\Janet\\Desktop\\epicodus-c#\\Palindromes\\Palindromes.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5867,8 +5867,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Janet\\Desktop\\epicodus-c#\\palindromes\\Palindromes\\Palindromes.csproj": {
-              "projectPath": "C:\\Users\\Janet\\Desktop\\epicodus-c#\\palindromes\\Palindromes\\Palindromes.csproj"
+            "C:\\Users\\Janet\\Desktop\\epicodus-c#\\Palindromes\\Palindromes\\Palindromes.csproj": {
+              "projectPath": "C:\\Users\\Janet\\Desktop\\epicodus-c#\\Palindromes\\Palindromes\\Palindromes.csproj"
             }
           }
         }
